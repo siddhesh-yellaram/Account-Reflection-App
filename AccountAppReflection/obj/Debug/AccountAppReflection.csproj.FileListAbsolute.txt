@@ -1,0 +1,7 @@
+D:\test\.NET\AccountAppReflection\bin\Debug\AccountAppReflection.exe.config
+D:\test\.NET\AccountAppReflection\bin\Debug\AccountAppReflection.exe
+D:\test\.NET\AccountAppReflection\bin\Debug\AccountAppReflection.pdb
+D:\test\.NET\AccountAppReflection\obj\Debug\AccountAppReflection.csproj.AssemblyReference.cache
+D:\test\.NET\AccountAppReflection\obj\Debug\AccountAppReflection.csproj.CoreCompileInputs.cache
+D:\test\.NET\AccountAppReflection\obj\Debug\AccountAppReflection.exe
+D:\test\.NET\AccountAppReflection\obj\Debug\AccountAppReflection.pdb
